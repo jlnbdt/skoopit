@@ -11,4 +11,4 @@ Thème conçu et testé avec [PluXml][] 5.3.
 
 [layoutit.com]: http://layoutit.com
 [Masonry]: http://masonry.desandro.com/
-[PluXml] : http://www.pluxml.org/
+[PluXml]: http://www.pluxml.org/
