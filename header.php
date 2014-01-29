@@ -105,32 +105,7 @@
 				<p>
                                 <?php $plxShow->subTitle(); ?>
 				</p>
-<!--
-				<p>
-					<a class="btn btn-primary btn-large" href="#">Learn more</a>
-				</p> -->
 			</div>	
 		</div>
 	</div>
 
-
-
-<!--
-<body id="top">
-
-    <nav role="navigation">
-
-        <ul id="static-nav">
-            <?php $plxShow->staticList($plxShow->getLang('HOME'),'<li id="#static_id"><a href="#static_url" class="#static_status" title="#static_name">#static_name</a></li>'); ?>
-            <?php $plxShow->pageBlog('<li id="#page_id"><a class="#page_status" href="#page_url" title="#page_name">#page_name</a></li>'); ?>
-        </ul>
-
-    </nav>
-
-    <header role="banner">
-
-        <h1>
-        </h1>
-
-    </header>
--->
